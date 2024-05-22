@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="ar"> 
+ <head> 
+  <meta charset="UTF
+<!DOCTYPE html>
+<html lang=" ar"> 
+  <meta charset="UTF-8"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <title>موقع تعليمي</title> 
+  <link rel="stylesheet" href="styles.css"> 
+ </head> 
+ <body> 
+  <header> 
+   <h1>مرحبًا بكم في موقعي التعليمي</h1> 
+  </header> 
+  <nav> 
+   <ul> 
+    <li><a href="#home">الرئيسية</a></li> 
+    <li><a href="#courses">الدورات</a></li> 
+    <li><a href="#about">حول</a></li> 
+    <li><a href="#contact">اتصل بنا</a></li> 
+   </ul> 
+  </nav> 
+  <section id="home"> 
+   <h2>الرئيسية</h2> 
+   <p>مرحبًا بكم في موقعنا التعليمي حيث تجدون أفضل الدورات.</p> 
+  </section> 
+  <section id="courses"> 
+   <h2>الدورات</h2> 
+   <p>قائمة الدورات المتاحة.</p> 
+  </section> 
+  <section id="about"> 
+   <h2>حول</h2> 
+   <p>معلومات عن الموقع.</p> 
+  </section> 
+  <section id="contact"> 
+   <h2>اتصل بنا</h2> 
+   <p>معلومات الاتصال.</p> 
+  </section> 
+  <footer> 
+   <p>© 2024 موقعي التعليمي</p> 
+  </footer> 
+  <script src="scripts.js"></script> 
+ </body>
+</html>
